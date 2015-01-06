@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

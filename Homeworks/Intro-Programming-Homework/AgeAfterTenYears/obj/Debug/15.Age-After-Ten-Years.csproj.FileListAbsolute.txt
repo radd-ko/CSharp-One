@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

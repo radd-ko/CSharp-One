@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb

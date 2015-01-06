@@ -1,0 +1,6 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintYourName\bin\Debug\PrintYourName.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintYourName\bin\Debug\PrintYourName.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintYourName\obj\Debug\05. Print-Your-Name.csprojResolveAssemblyReference.cache
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\PrintYourName\obj\Debug\PrintYourName.pdb
