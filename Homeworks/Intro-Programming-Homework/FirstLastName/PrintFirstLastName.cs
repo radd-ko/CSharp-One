@@ -6,8 +6,8 @@
     {
         static void Main()
         {
-            Console.WriteLine("Radko");
-            Console.WriteLine("Krasimirov");
+            Console.WriteLine("Radoslav");
+            Console.WriteLine("Zahariev");
         }
     }
 }

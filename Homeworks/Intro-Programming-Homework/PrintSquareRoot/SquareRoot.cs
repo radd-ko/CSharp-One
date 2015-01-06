@@ -6,8 +6,7 @@
     {
         static void Main()
         {
-            double squareRoot = Math.Sqrt(12345);
-            Console.WriteLine(squareRoot);
+            Console.WriteLine("The square root of 12345 is {0}", Math.Sqrt(12345));
         }
     }
 }

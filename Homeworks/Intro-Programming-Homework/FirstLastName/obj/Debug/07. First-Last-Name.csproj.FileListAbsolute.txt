@@ -1,0 +1,6 @@
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe.config
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.exe
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.pdb
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.pdb
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\FirstLastName\obj\Debug\07. First-Last-Name.csprojResolveAssemblyReference.cache

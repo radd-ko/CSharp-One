@@ -6,7 +6,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("Radko");
+            Console.WriteLine("Radi");
         }
     }
 }

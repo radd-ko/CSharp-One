@@ -3,3 +3,6 @@ C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Hom
 C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
 C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
 C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Radko\Documents\GitHub\CSharp-One\Homeworks\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
