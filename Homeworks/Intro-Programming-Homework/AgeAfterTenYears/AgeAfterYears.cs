@@ -6,9 +6,18 @@
     {
         static void Main()
         {
-            Console.Write("Please enter your current age: ");
-            int age = int.Parse(Console.ReadLine());
-            Console.WriteLine("Your age after 10 years will be: {0} years", age + 10);
+            DateTime birthday = DateTime.Parse(Console.ReadLine());
+            DateTime now = DateTime.Now;
+            if (now.DayOfYear >= birthday.DayOfYear)
+            {
+                int ageAfterTen = now.Year - birthday.Year + 10;
+                Console.WriteLine(ageAfterTen);
+            }
+            else
+            {
+                int ageAfterTen = now.Year - birthday.Year + 9;
+                Console.WriteLine(ageAfterTen);
+            }
         }
     }
 }
