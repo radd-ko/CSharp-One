@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\ExchangeValues\obj\Debug\ExchangeValues.pdb

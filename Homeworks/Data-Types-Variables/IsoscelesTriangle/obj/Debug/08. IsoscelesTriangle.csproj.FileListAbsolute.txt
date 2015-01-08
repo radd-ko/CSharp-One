@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

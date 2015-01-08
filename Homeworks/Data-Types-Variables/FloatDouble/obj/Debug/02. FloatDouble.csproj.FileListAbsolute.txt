@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\FloatDouble\bin\Debug\FloatDouble.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\FloatDouble\bin\Debug\FloatDouble.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\FloatDouble\bin\Debug\FloatDouble.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\FloatDouble\obj\Debug\FloatDouble.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\FloatDouble\obj\Debug\FloatDouble.pdb

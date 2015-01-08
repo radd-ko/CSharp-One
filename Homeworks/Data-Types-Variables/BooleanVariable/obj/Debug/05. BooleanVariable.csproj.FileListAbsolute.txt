@@ -1,0 +1,3 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb

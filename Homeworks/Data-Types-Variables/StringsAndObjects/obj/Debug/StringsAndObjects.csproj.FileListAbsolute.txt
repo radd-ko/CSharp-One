@@ -1,0 +1,5 @@
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Radko\Downloads\kurs\CSharp\CSharp_2015_homeworks\Primitive-Data-Types-Variables\Data-Types-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
