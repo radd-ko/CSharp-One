@@ -1,4 +1,12 @@
-﻿namespace IsoscelesTriangle
+﻿//Write a program that prints an isosceles triangle of 9 copyright symbols ©, something like this:
+//   ©
+//
+//  © ©
+//
+// ©   ©
+//
+//© © © ©
+namespace IsoscelesTriangle
 {
     using System;
     class Triangle
